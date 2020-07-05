@@ -1,0 +1,15 @@
+{
+    "Name of the program": "Testing",
+    "developer": "jackson",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "Seattle central college",
+        "city": "seattle",
+        "state": "WA",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
